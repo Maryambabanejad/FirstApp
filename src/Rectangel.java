@@ -6,22 +6,5 @@ public class Rectangel {
         int width = scanner.nextInt(),length = scanner.nextInt();
         long area = width * length;
         System.out.println(area);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
